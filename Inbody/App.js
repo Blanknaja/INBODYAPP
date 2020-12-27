@@ -22,13 +22,15 @@ const App = () => {
   return (
     <>
       <SafeAreaView>
+      
           <View>
-            <Text>init App</Text>
+              <Text>Hi </Text>
           </View>
       </SafeAreaView>
     </>
   );
 };
+
 
 
 export default App;
